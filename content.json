@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Rights Before Liquidity",
+    "deck": "Tokenisation succeeds when the holder can exercise the claim, survive an upgrade and recover after failure.",
+    "date": "2026-11-25",
+    "category": "Market Structure",
+    "image": "assets/rights.svg",
+    "featured": "true",
+    "slug": "rights-before-liquidity"
+  },
+  {
+    "title": "Collateral Needs a Dossier",
+    "deck": "Transferability, redemption and liquidation are different claims and each can fail on its own.",
+    "date": "2026-11-18",
+    "category": "Risk & Infrastructure",
+    "image": "assets/collateral.svg",
+    "featured": "false",
+    "slug": "collateral-needs-a-dossier"
+  },
+  {
+    "title": "The Fund After the Upgrade",
+    "deck": "A financial system must preserve obligations and completed effects while its software changes.",
+    "date": "2026-11-08",
+    "category": "Funds",
+    "image": "assets/fund.svg",
+    "featured": "false",
+    "slug": "the-fund-after-the-upgrade"
+  }
+]
